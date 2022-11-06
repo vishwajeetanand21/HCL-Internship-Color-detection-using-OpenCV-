@@ -1,6 +1,14 @@
 # HCL-Internship-Color-detection-using-OpenCV-
 In this color detection Python application, we are going to build an application through which user can automatically get the name of the color and their RGB values just by clicking on the image provided by the user.
 
+---
+
+## Technologies used:
+* Python
+* OpenCV
+* Pandas
+
+---
 ## Flowchart:
 
 ![image](https://user-images.githubusercontent.com/81609398/200162247-9b25ff73-196a-42eb-9ee5-c2c12fce08a1.png)
