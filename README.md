@@ -27,7 +27,7 @@ Output Image with color intensity RGB value as R=0 G=105 B=228 for **True Blue**
 
 ![Screenshot3](https://user-images.githubusercontent.com/81609398/200162038-3c3728a2-fbcd-4e2c-a6ef-b7524288dbf4.png)
 
-Output Image with color intensity RGB value as R=156 G=0 B=54 for **Burgundy**
+Output Image with color intensity RGB value as R=156 G=0 B=54 for **Vivid Burgundy**
 
 ---
 ![Screenshot4](https://user-images.githubusercontent.com/81609398/200162070-0c8c2f82-18b3-4869-b716-f9e2bee7ec5e.png)
@@ -36,7 +36,7 @@ Original Input Image of a Resort
 
 ![Screenshot5](https://user-images.githubusercontent.com/81609398/200162077-99dfcbe7-02f1-4940-94bb-6c8e7000d5e6.png)
 
-Output Image with color intensity RGB value as R=0 G=64 B=111 for **Indigo (Dye)**
+Output Image with color intensity RGB value as R=0 G=62 B=111 for **Indigo (Dye)**
 
 ![Screenshot6](https://user-images.githubusercontent.com/81609398/200162101-c7ab7fc2-a861-41b9-b8b3-ef20066a7d97.png)
 
